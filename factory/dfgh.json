@@ -1,0 +1,9 @@
+{
+	"name": "dfgh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2a8111c-fc93-4656-a62e-4680e4430940",
+		"tenantId": "26431ea1-f92e-4c5e-9ab4-9d09de9bda39"
+	}
+}
